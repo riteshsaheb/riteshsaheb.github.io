@@ -30,10 +30,16 @@ h1{
     display: block;
     /* padding: 0 0 57px 0; */
     /* display: inline-block; */
-    text-decoration: none;
+    /* text-decoration: none; */
     padding: 0;
     margin-left: 20px;
     margin-top: 12px;
+
+}
+a{
+    text-decoration: none;
+    color: #777777;
+    background-color: white;
 }
 
 /* Header Element */
@@ -49,6 +55,7 @@ header {
     top: 20 px;
     right: 0;
     left: 0;
+    text-decoration: none;
 }
 
 /* H2 Heading  */
@@ -156,11 +163,12 @@ footer {
     position: absolute;
     background-color: #4aaaa5;
     color: white;
-    height: 45px;
+    height: 30px;
     width: 200px;
     text-align: center;
     font-size: 20px;
-    bottom: 0;
+    bottom: 10px;
+    padding-top: 10px;
 }
 
 .img3 {
@@ -173,11 +181,12 @@ footer {
     position: absolute;
     background-color: #4aaaa5;
     color: white;
-    height: 45px;
+    height: 30px;
     width: 200px;
     text-align: center;
     font-size: 20px;
-    bottom: 0;
+    bottom: 10px;
+    padding-top: 10px;
 }
 .img4 {
     position: relative;
@@ -189,11 +198,12 @@ footer {
     position: absolute;
     background-color: #4aaaa5;
     color: white;
-    height: 45px;
+    height: 30px;
     width: 200px;
     text-align: center;
     font-size: 20px;
-    bottom: 0;
+    bottom: 10px;
+    padding-top: 10px;
 }
 .img5 {
     position: relative;
@@ -205,11 +215,12 @@ footer {
     position: absolute;
     background-color: #4aaaa5;
     color: white;
-    height: 45px;
+    height: 30px;
     width: 200px;
     text-align: center;
     font-size: 20px;
-    bottom: 0;
+    bottom: 10px;
+    padding-top: 10px;
 }
 .img6 {
     position: relative;
