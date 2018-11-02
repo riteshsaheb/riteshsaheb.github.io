@@ -41,6 +41,9 @@ a{
     color: #777777;
     background-color: white;
 }
+.boldlink{
+    font-weight: bold;
+}
 
 /* Header Element */
 header {
@@ -87,7 +90,10 @@ h2{
 .paragraph1{
     float: left;
     width:65%;
-    /* margin: 10px; */
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    line-height: 20px;
 }
 .clearfix::after {
     content: "";
